@@ -8,3 +8,6 @@
   end 
 end
 
+def roster 
+  @roster 
+end 

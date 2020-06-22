@@ -5,5 +5,5 @@
     @name = name
     @roster = {}
   end 
-
+end 
 
